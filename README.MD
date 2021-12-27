@@ -1,5 +1,5 @@
 <h1 align="center">Hospital System 💊</h1>
-<h3 align="center">Landing page de serviços de hospitalares</h3>
+<h3 align="center">Sistema de serviços de hospitalares</h3>
 
 <p align="center"><a href="https://medcrudg7-soulcode.herokuapp.com/" > Finalizado 🚀</a><ADM>
 
