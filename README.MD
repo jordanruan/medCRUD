@@ -60,11 +60,8 @@ Desenvolver um sistema para um hospital com 2 perfis de acesso:
 
 ## Authors 👨‍💻
 
-- GitHub: [@aliicebraga](https://github.com/aliicebraga)
-- GitHub: [@piresdanyllo](https://github.com/piresdanyllo)
 - GitHub: [@jordanruan](https://github.com/jordanruan)
-- GitHub: [@wytoriaa](https://github.com/wytoriaa)
 
 ---
 
-Copyright - 2021 Alice, Danyllo, Jordan, Wytoria | SoulCodeChallenge
+Copyright - 2021 Jordan | SoulCodeChallenge
