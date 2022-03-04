@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://medcrudg7-soulcode.herokuapp.com/" > Finalizado 🚀</a><ADM>
 
-![banner](https://github.com/jordanruan/medCRUD/blob/main/public/img/2.png?raw=true) 
+![banner](https://github.com/jordanruan/medCRUD/blob/main/public/img/medcrud.png?raw=true) 
 
 ---
 
